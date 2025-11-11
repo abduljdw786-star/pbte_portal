@@ -38,7 +38,7 @@
     <!-- Hero Section -->
     <section class="hero-section text-center">
         <div class="container">
-            <h1 class="display-4 mb-4">Punjab Board of Technical Education</h1>
+            <h1 class="display-4 mb-4">Punjab of Technical Education</h1>
             <p class="lead mb-4">First Annual Examination, 2001 - Diploma Verification System</p>
             <a href="/admin/dashboard" class="btn btn-light btn-lg">Admin Dashboard</a>
         </div>
